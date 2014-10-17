@@ -93,6 +93,8 @@ public class MainListActivity extends ListActivity {
             isAvailable = true;
         }
 
+        //un comentario para marcar cambios en Git
+
         return isAvailable;
     }
 
